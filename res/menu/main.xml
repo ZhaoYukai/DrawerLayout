@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.drawerlayoutusing.app.MainActivity" >
+
+    <item
+        android:id="@+id/action_websearch"
+        android:icon="@drawable/action_search"
+        android:title="webSearch"
+        android:showAsAction="ifRoom|withText"
+        />
+
+</menu>
