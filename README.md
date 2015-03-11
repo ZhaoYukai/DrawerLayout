@@ -5,7 +5,7 @@ Andorid抽屉布局，左侧的侧滑菜单。
 而现在 DrawerLayout 被谷歌包含在了 android-support-v4.jar 这个包下，
 可以让开发者更简单方便的实现侧滑菜单这一功能。
 
-核心内容：
-1.DrawerLayout 的基本使用
-2.Fragment 的动态创建
-3.Action Bar 的基本使用
+核心内容：<br>
+1.DrawerLayout 的基本使用<br>
+2.Fragment 的动态创建<br>
+3.Action Bar 的基本使用<br>
